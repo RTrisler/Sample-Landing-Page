@@ -2,7 +2,7 @@
 Sample Starbucks website landing page using HTML, CSS, and JS.
 
 ## Overview
-![](Animation.gif)
+![](/image/Animation.gif)
 ## What I Learned
 + Using HTML and CSS flexbox to format textbox and image elements 
 + Importing and altering fonts with HTML and CSS 
